@@ -12,12 +12,12 @@ const Header = () => (
   <header className="header">
     <div className="container">
       <Link to="/">
-        <img alt="logo" className="header__logo" src={logo} />
+      Home
       </Link>
 
       <DownloadLink content="header">
         <DownloadButton float="right">
-          Download Firefox
+          Download Git
         </DownloadButton>
       </DownloadLink>
     </div>

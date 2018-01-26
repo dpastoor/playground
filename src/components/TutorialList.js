@@ -14,7 +14,7 @@ const TutorialList = () => (
         photo={cssgridPhoto}
         title="CSS Grid"
         desc="CSS Grid Layout is completely changing the game for web design. Learn about CSS Grid Layout and the Firefox DevTools layout panel"
-        link="/css-grid"
+        link="/git"
       />
       <TutorialItem
         photo={debuggerPhoto}

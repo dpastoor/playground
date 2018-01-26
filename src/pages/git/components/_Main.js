@@ -43,8 +43,8 @@ const Main = ({ currentPageNum, tutorial, homework }) => {
       </Helmet>
 
       <Hero breadcrumb>
-        <h3>Firefox DevTools</h3>
-        <h1>Introduction to CSS Grid Layout</h1>
+        <h3> Developer Resources </h3>
+        <h1>Introduction to git</h1>
       </Hero>
       <div className="main">
         <div className="container">

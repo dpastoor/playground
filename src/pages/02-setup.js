@@ -3,6 +3,6 @@ import Redirect from '../components/Redirect';
 
 export default () => {
   return (
-    <Redirect url="/css-grid/02-first-grid" />
+    <Redirect url="/git/02-first-grid" />
   );
 };

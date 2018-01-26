@@ -12,7 +12,7 @@ const Hero = props => (
         <Link to="/">
           <div className="hero__breadcrumb">
             <img src={arrowLeft} alt="arrow left" />
-            <span>Playground Home</span>
+            <span>Home</span>
           </div>
         </Link>
       </div>
